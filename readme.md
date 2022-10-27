@@ -2,15 +2,12 @@
 
 <div align="center" style="color:blue">
 
-<a href="https://github.com/toshiksharma271">University Freshman</a>
-<a href="https://toshiksharma.me" target="_blank">My Web Portfolio</a>
-
 
 <!-- <div align="center">
     <h2>Some of my notable repos <img src="https://cdn.discordapp.com/emojis/763708605114482708.webp" width="30px"></h2>
     <a href="https://github.com/Desonity/Desonity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desonity&repo=Desonity&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/ankushKun/animedoro-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=animedoro-timer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/ankushKun/DiscordDatabase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=DiscordDatabase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
+    <a href="https://github.com/toshiksharma271/animedoro-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=toshiksharma271&repo=animedoro-timer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
+    <a href="https://github.com/toshiksharma271/DiscordDatabase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=toshiksharma271&repo=DiscordDatabase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
     
 </div> -->
 
@@ -18,7 +15,6 @@
 
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=toshiksharma271&theme=oldie&no-bg=false&no-frame=true&column=4&margin-w=5" alt="Toshik's trophies">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiksharma271&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true" height="175px">
 <img src="https://github-readme-stats.vercel.app/api?username=toshiksharma271&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&hide_border=true" height="175px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshiksharma271&show_icons=true&hide_border=true&theme=Javascript&background=f1f0f1" height="175px">
@@ -54,14 +50,6 @@
 </div>
 
 <h3>Socials</h3>
-
-<a href="https://linkedin.com/in/ankushKun" target="_blank">LinkedIn</a> ·
-<a href="https://diamondapp.com/u/weeblet" target="_blank">DeSo</a> ·
-<a href="https://instagram.com/ankushKun_" target="_blank">Instagram</a> ·
-<a href="https://reddit.com/u/TECHIE6023" target="_blank">Reddit</a> ·
-<a href="https://discord.com/app" target="_blank">Discord (weeblet#4745)</a> ·
-<a href="https://youtube.com/ankushKun" target="_blank">YouTube</a> 
-    
 </div>
 
 <div align="right">
