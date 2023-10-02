@@ -4,12 +4,6 @@
 
 <div align="center" style="color:blue">
 
-<a href="https://github.com/toshiksharma271">student</a> · 
-<a href="https://github.com/toshiksharma271">gamedev</a> ·
-<a href="https://github.com/toshiksharma271"> blockchain dev</a>
-
-<a href="https://toshiksharma271.github.io" target="_blank">checkout portfolio</a>
-
 
 <!-- <div align="center">
     <h2>Some of my notable repos <img src="https://cdn.discordapp.com/emojis/763708605114482708.webp" width="30px"></h2>
@@ -23,7 +17,6 @@
 
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=toshiksharma271&theme=oldie&no-bg=false&no-frame=true&column=4&margin-w=5" alt="toshiksharma271 trophies">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiksharma271&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true" height="175px">
 <img src="https://github-readme-stats.vercel.app/api?username=toshiksharma271&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&hide_border=true" height="175px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshiksharma271&show_icons=true&hide_border=true&theme=Javascript&background=f1f0f1" height="175px">
@@ -40,8 +33,6 @@
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/-cpp-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-python-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-java-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-c sharp-silver?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-HTML 5-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-css 3-grey?style=for-the-badge">
@@ -49,42 +40,18 @@
 <h4>Libraries and Frameworks</h4>
 <img src="https://img.shields.io/badge/-React-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-NextJS-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Svelte-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Flask-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-ExpressJS-silver?style=for-the-badge">
-<br>
 <img src="https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Tailwind CSS-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Firebase Database-grey?style=for-the-badge" >
-<br>
-<img src="https://img.shields.io/badge/-Discord.py-silver?style=for-the-badge">
 <h4>Sofware and Tools</h4>
 <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
 <br>
-<img src="https://img.shields.io/badge/-(NEO)VIM-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-heroku-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Vercel-grey?style=for-the-badge">
-<br>
-<img src="https://img.shields.io/badge/-unity_3D-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Godot_Engine-silver?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-Node JS-grey?style=for-the-badge">
 </details>
 </div>
 
 <h3>Socials</h3>
-
-<a href="https://twitter.com/toshik_sharma" target="_blank">Twitter</a> ·
-<a href="https://linkedin.com/in/toshiksharma" target="_blank">LinkedIn</a> ·
-<a href="https://diamondapp.com/u/baingan" target="_blank">DeSo</a> ·
-<a href="https://instagram.com/toshiksharma271_" target="_blank">Instagram</a> ·
-<a href="https://reddit.com/u/baingan" target="_blank">Reddit</a> ·
-<a href="https://discord.com/app" target="_blank">Discord (baingan#7094)</a> ·
-<a href="https://youtube.com/toshiksharma271" target="_blank">YouTube</a> 
-    
 </div>
 
 <div align="right">
